@@ -1,0 +1,1 @@
+# analyza-crowdfundingu-socialni-podniky
