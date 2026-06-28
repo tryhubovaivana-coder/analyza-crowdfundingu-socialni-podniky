@@ -1,11 +1,11 @@
-# Datová analýza sociálního vyloučení a regionálních bariér v ČR 
+# Jak najít místa, kde sociální podnikání nejvíce pomůže? (Analýza českých regionů)
 
-Vítejte u mého třetího projektu! Tento repozitář slouží jako analytická sonda do klíčových oblastí sociálního vyloučení v České republice na základě oficiálních dat MPSV (Strategie sociálního začleňování). Projekt kombinuje marketingový a makroekonomický pohled s cílem identifikovat regiony, které nejvíce potřebují podporu prostřednictvím sociálního podnikání.
+Vítejte u mého druhého projektu! V tomto projektu se dívám na to, v jakých částech České republiky lidé nejvíce bojují s chudobou, dluhy a nedostatkem práce. Vycházím z oficiálních údajů Ministerstva práce a sociálních věcí (MPSV).
 
-🎯 Vize projektu
-Sociální podniky musí své aktivity a marketingové kampaně cílit tam, kde je nejvyšší koncentrace problémů. Tento projekt analyzuje tvrdá data v oblastech jako jsou exekuce, nezaměstnanost v sociálně vyloučených lokalitách (SVL) a bytová nouze. Výsledky poslouží jako strategický podklad pro sociální podnikatele, aby věděli, do kterých krajů (např. Ústecký, Karlovarský, Moravskoslezský) směřovat pracovní místa a jak efektivně komunikovat společenský dopad (Social Impact).
+🎯 Cíl projektu
+Když chce sociální podnik (například chráněná dílna nebo férová kavárna) úspěšně fungovat a pomáhat, musí vědět, kde je jeho pomoc nejvíce potřeba a jak správně postavit svůj marketing. Tento projekt slouží jako praktický podklad pro podnikatele. Ukazuje, ve kterých krajích (např. Ústecký, Karlovarský nebo Moravskoslezský) dává smysl vytvořit nová pracovní místa a jak ukázat zákazníkům, že nákupem u takové firmy pomáhají dobré věci.
 
-## 🛠️ Budoucí nástroje
-* **SQL** pro propojování dat o nezaměstnanosti, exekucích a demografii podle jednotlivých krajů a okresů.
-* **Python (Pandas/Seaborn)** pro identifikaci korelací (např. vztah mezi hustotou exekucí a mírou nedokončeného vzdělání).
-* **Power BI** pro tvorbu interaktivní mapy sociálního vyloučení v ČR pro potřeby managementu sociálních podniků.
+## 🛠️ Jaké nástroje v projektu používám a proč?
+* **SQL (databáze):** Pomocí tohoto nástroje čistím a propojuji tabulky o nezaměstnanosti, exekucích a bydlení podle jednotlivých okresů, aby byla data přehledná.
+* **Python (programování):** Používám ho pro hledání souvislostí v datech – například zjišťuji, jak moc spolu souvisí vysoký počet exekucí a nedokončené vzdělání v daném místě.
+* **Power BI (grafické přehledy):** Převádím suchá čísla do přehledné interaktivní mapy ČR, ze které každý manažer na první pohled vyčte, kde jsou největší problémy.
